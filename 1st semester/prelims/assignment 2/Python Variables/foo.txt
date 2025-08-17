@@ -1,0 +1,6 @@
+-> Python variables
+-> Variable Names
+-> Assign Multiple Values
+-> Output variables
+-> Global variables
+-> Variable Exercises
