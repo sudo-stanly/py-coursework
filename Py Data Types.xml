@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="Image1" object_type="graphic"/>
+ <object alt="" name="Image2" object_type="graphic"/>
+ <object alt="" name="Image3" object_type="graphic"/>
+ <object alt="" name="Image4" object_type="graphic"/>
+ <object alt="" name="Image5" object_type="graphic"/>
+ <paragraph index="24" node_type="writer">PYTHON DATA TYPES</paragraph>
+ <paragraph index="33" node_type="writer">ASSIGNMENT:</paragraph>
+ <paragraph index="34" node_type="writer">Search for Python Data Types and explain how and when to use them. Then provide at least one example of how to use it.</paragraph>
+ <paragraph index="49" node_type="writer">Converting an int to a string value can be helpful sometimes to print out the desired instruction</paragraph>
+ <paragraph index="50" node_type="writer">followed by the Interpreter.</paragraph>
+</indexing>
