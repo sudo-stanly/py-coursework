@@ -1,0 +1,2 @@
+lists are mutable (changeable)
+tuples immutable(uncahngeable)
